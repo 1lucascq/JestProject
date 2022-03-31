@@ -6,3 +6,5 @@ O objetivo do projeto é abordar os seguintes tópicos:
 - Aplicar os seus conhecimentos acerca de testes utilizando o Jest;
 - Mockar funções;
 - Mockar APIs;
+
+*OBS*: A única implementação realizada no projeto foram os testes.
